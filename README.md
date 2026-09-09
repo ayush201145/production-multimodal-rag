@@ -1,5 +1,8 @@
 # Production-Ready Multimodal RAG (Retrieval-Augmented Generation) System
 
+
+![Production-Ready Multimodal RAG System Hero Dashboard](docs/screenshots/hero_dashboard.png)
+
 Vector search, hybrid retrieval, PDF table/chart chunking, cross-encoder semantic reranking, citations, and automated hallucination-guardrail evaluations served via FastAPI & Streamlit UI.
 
 ## Architecture
